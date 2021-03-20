@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Person List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="person_one">Person One</string>
+    <string name="person_two">Person Two</string>
+    <string name="result">Result</string>
+    <string name="person_list">Person List</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Add Person</string>
+    <string name="search_person">Search Person</string>
+    <string name="empty">Empty Username Or Password</string>
+    <string name="invalid">Invalid Username Or Password</string>
+    <string name="success">Log In Is Successful</string>
+    <string name="error">ERROR!!!</string>
+    <string name="title_dialog">Loading…</string>
+    <string name="message_dialog">Going To Person List</string>
+    <string name="add_person">Person Is Added !!</string>
+    <string name="action">Action</string>
+    <string name="empty_message">Please Fill In The All Blanks</string>
+</resources>
