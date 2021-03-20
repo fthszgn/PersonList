@@ -114,7 +114,7 @@ public class CustomRVAdapter extends RecyclerView.Adapter<CustomRVAdapter.ViewHo
                         })
                         .setIcon(android.R.drawable.ic_dialog_alert)
                         .show();
-//               activity.getImageFromAlbum();
+//               activity.getImageFromAlbum();gg
 //               holder.personImage.setImageBitmap(selectedImage);
             }
         });
